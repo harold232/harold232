@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Soy un estudiante de Ingeniería de Software de la UNMSM. 
+### Soy un estudiante de Ingeniería de Software.😄
 <!--
 **harold232/harold232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
