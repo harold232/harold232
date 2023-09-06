@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-iu4yshytf-harold232.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/harold0248)
+[<img src="https://spotify-now-playing-h7eprp8dq-harold232.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/harold0248)
