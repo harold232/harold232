@@ -33,7 +33,4 @@ Here are some ideas to get you started:
 [website]: https://www.linkedin.com/in/harold-aquino-03b17b165/
 
 ---
-
-### Spotify Playing 🎧
-
-[<img src="https://spotify-now-playing-h7eprp8dq-harold232.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/harold0248)
+<!-- ### Spotify Playing 🎧 [<img src="https://spotify-now-playing-h7eprp8dq-harold232.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/harold0248) -->
