@@ -32,3 +32,7 @@ Here are some ideas to get you started:
 
 [website]: https://www.linkedin.com/in/harold-aquino-03b17b165/
 
+---
+
+### 🎧 Spotify Playing
+[![Spotify](https://spotify-playing-hx01n3c3r-harold232.vercel.app/)](https://open.spotify.com/user/harold0248)
