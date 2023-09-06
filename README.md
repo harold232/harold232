@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 ---
 
 ### 🎧 Spotify Playing
-[![Spotify](https://spotify-playing-hx01n3c3r-harold232.vercel.app/)](https://open.spotify.com/user/harold0248)
+[![Spotify](spotify-now-playing-git-main-harold232.vercel.app/api/spotify)](https://open.spotify.com/user/harold0248)
