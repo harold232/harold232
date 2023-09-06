@@ -34,5 +34,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 🎧 Spotify Playing
-[![Spotify](spotify-now-playing-git-main-harold232.vercel.app/api/spotify)](https://open.spotify.com/user/harold0248)
+### Spotify Playing 🎧
+
+[<img src="https://spotify-now-playing-git-main-harold232.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/harold0248)
