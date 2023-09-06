@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 ---
 
 ### Spotify Playing 🎧 
-[<img src="https://spotify-readme-one-bay.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/harold0248)
+[<img src="[https://spotify-readme-one-bay.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/harold0248)
